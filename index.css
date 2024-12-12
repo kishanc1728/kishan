@@ -1,0 +1,120 @@
+.main {
+    
+    gap: 10px;
+
+}
+
+.row1 {
+    padding-top: 10px;
+    height: 250px;
+    display: flex;
+    gap: 10px;
+    
+}
+.box {
+    height: 250px;
+    width: 100%;
+    /* background-color: red; */
+}
+
+.row2 {
+    padding-top: 10px;
+    height: 250px;
+    display: flex;
+    gap: 10px;
+    
+    
+}
+.row3 {
+    padding-top: 10px;
+    height: 250px;
+    display: flex;
+    gap: 10px;
+    
+}
+.box2 {
+    height: 250px;
+    width: 100%;
+    /* background-color: green; */
+    
+}
+.box3 {
+    height: 250px;
+    width: 100%; 
+    /* background-color: blue; */
+}
+.img1 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+.img2 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
+.img3 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+.img4 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+.img5 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.img6 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+.img7 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+}
+.img8 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
+.img9 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+}
+.img10 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
+}
+.img11 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+}
+.img12 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+}
+.img13 {
+    height: 250px;
+    width: 100%; 
+    /* clip-path: polygon(50% 0%, 0% 100%, 100% 100%); */
+}
+.img14 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+}
+.img15 {
+    height: 250px;
+    width: 100%; 
+    clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+}
